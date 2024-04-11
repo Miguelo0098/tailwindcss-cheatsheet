@@ -16,15 +16,23 @@
       "activitybar": [
         {
           "id": "tailwindCheatsheet",
-          "title": "Tailwind Cheatsheet",
+          "title": "tailwind cheatsheet",
           "icon": "resources/tailwind-icon.svg"
         }
       ]
     },
-    "commands": [
+    "views": {
+      "tailwindCheatsheet": [
+        {
+          "id": "tailwindCheatsheet",
+          "name": "tailwind cheatsheet"
+        }
+      ]
+    },
+    "viewsWelcome": [
       {
-        "command": "tailwind-cheatsheet.helloWorld",
-        "title": "Hello World"
+        "view": "tailwindCheatsheet",
+        "contents": "Hello world"
       }
     ]
   },
