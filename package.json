@@ -16,7 +16,7 @@
       "activitybar": [
         {
           "id": "tailwindCheatsheet",
-          "title": "tailwind cheatsheet",
+          "title": "Tailwind Cheatsheet",
           "icon": "resources/tailwind-icon.svg"
         }
       ]
@@ -24,8 +24,67 @@
     "views": {
       "tailwindCheatsheet": [
         {
-          "id": "tailwindCheatsheet",
-          "name": "tailwind cheatsheet"
+          "id": "twcss-layout",
+          "name": "Layout"
+        },
+        {
+          "id": "twcss-grid",
+          "name": "Grid"
+        },
+        {
+          "id": "twcss-flexbox",
+          "name": "Flexbox"
+        },
+        {
+          "id": "twcss-box-alignment",
+          "name": "Box Alignment"
+        },
+        {
+          "id": "twcss-sizing",
+          "name": "Sizing"
+        },
+        {
+          "id": "twcss-spacing",
+          "name": "Spacing"
+        },
+        {
+          "id": "twcss-backgroungs",
+          "name": "Backgrounds"
+        },
+        {
+          "id": "twcss-typography",
+          "name": "Typography"
+        },
+        {
+          "id": "twcss-transitions-animations",
+          "name": "Transitions and Animatons"
+        },
+        {
+          "id": "twcss-transforms",
+          "name": "Transforms"
+        },
+        {
+          "id": "twcss-borders",
+          "name": "Borders"
+        },
+        {
+          "id": "twcss-filter",
+          "name": "Filter"
+        },
+        {
+          "id": "twcss-tables",
+          "name": "Tables"
+        },{
+          "id": "twcss-interactivity",
+          "name": "Interactivity"
+        },
+        {
+          "id": "twcss-svg",
+          "name": "SVG"
+        },
+        {
+          "id": "twcss-effects",
+          "name": "Effects"
         }
       ]
     },
